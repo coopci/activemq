@@ -1,2 +1,9 @@
 Make debugging and developing in IDE easier.
 After import the whole repo into eclipse, then click run as java application.
+
+
+mkdir -p activemq.home/webapps/
+cd activemq.home/webapps/
+ln -s activemq.home/webapps/admin -> ../../../activemq-web-console/target/activemq-web-console-5.16.0-SNAPSHOT
+
+

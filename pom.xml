@@ -240,6 +240,7 @@
     <module>activemq-all</module>
     <module>activemq-camel</module>
     <module>activemq-console</module>
+    <module>activemq-ide</module>
     <module>activemq-jaas</module>
     <module>activemq-karaf</module>
     <module>activemq-jms-pool</module>
